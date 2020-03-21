@@ -1,4 +1,7 @@
 ### monitoring covid19 with Grafana
+the realized dashboard:
+
+http://covid19.solinas.me/d/9CgSuouZz/covid19?orgId=1
 
 # crea mysql e phpmyadmin
 ```
